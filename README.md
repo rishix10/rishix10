@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:  Hii, I am Rishi 😎
 🔭 Currently a CSE student at GNIT , Kolkata.<br>👯‍♂️ I'm looking for collaboration on  my projects.<br>🌱 I'm currently learning full stack development.<br>💭 Ask me anything about my projects.
 
 
