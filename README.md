@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishix10_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishix10) ![Profile Views](https://komarev.com/ghpvc/?username=rishix10&label=Profile%20views&color=0e75b6&style=flat)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rishix10_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishix10) ![Profile Views](https://komarev.com/ghpvc/?username=rishix10&label=Profile%20views&color=0e75b6&style=flat)
 
 
 # 💻 Tech Stack:
